@@ -11,6 +11,7 @@ If you want to contribute, note that you should only update `data.json`.
  - [Python](#python)
  - [Java](#java)
  - [PHP](#php)
+ - [WordPress](#wordpress)
  - [Ruby](#ruby)
  - [Go](#go)
  - [Rust](#rust)
@@ -154,6 +155,13 @@ If you want to contribute, note that you should only update `data.json`.
 15 | [@smoqadam](https://github.com/smoqadam)/[**php-telegram-cli**](https://github.com/smoqadam/php-telegram-cli) | php wrapper for telegram cli | 
 11 | [@smmoosavi](https://github.com/smmoosavi)/[**php-gettext**](https://github.com/smmoosavi/php-gettext) | Wrapper for php-gettext by danilo segan. This library provides PHP functions to read MO files even when gettext is not compiled in or when appropriate locale is not present on the system. | 
 
+<h3><a name="wordpress"></a>WordPress</h3>
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+1 | [@NasimNet](https://github.com/NasimNet)/[**SG Check**](https://github.com/NasimNet/sg-check) | By this plugin you can determine the Source Guardian is installed on the server or not | 
+1 | [@NasimNet](https://github.com/NasimNet)/[**ParsiJoo MAP**](https://github.com/NasimNet/parsijoo-map) | by this plugin you can display your location on the Parsijoo MAP | 
+1 | [@NasimNet](https://github.com/NasimNet)/[**Nasim Persian Maker**](https://github.com/NasimNet/parsijoo-map) | You can make the your theme's Persian and rtl easily, by installing an activating “Nasim Persian Maker” plugin. | 
 
 <h3><a name="ruby"></a>Ruby</h3>
 
